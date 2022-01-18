@@ -9,3 +9,5 @@ To make the shell script executable, run:
 Then do:
 `./EmulateWin95.sh`
 Done.
+###### To download:
+Click this link: [Releases](https://github.com/SonicFan2020-best/EmulateWin95-Linux/releases)
